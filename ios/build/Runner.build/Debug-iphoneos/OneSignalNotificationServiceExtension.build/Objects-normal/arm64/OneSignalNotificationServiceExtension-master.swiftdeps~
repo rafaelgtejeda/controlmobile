@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "901d26d43bcf272f922c3ff6bd128fff"
+build_time: [1600816918, 99691000]
+inputs:
+  "/Users/fullcontrol/Projetos/RafaelTejeda/fullcontrolmobile/ios/OneSignalNotificationServiceExtension/NotificationService.swift": [1600179360, 242055662]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.3 (swiftlang-1200.0.29.2 clang-1200.0.30.1)"
+options: "859e52331b23cbcb6cdbb387930c820b"
+build_time: [1600825580, 609428000]
+inputs:
+  "/Users/fullcontrol/Projetos/RafaelTejeda/fullcontrolmobile/ios/OneSignalNotificationServiceExtension/NotificationService.swift": [1600179360, 242055662]

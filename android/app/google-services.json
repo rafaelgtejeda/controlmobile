@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "786788999903",
+    "firebase_url": "https://fullcontrolmobile-a5ee4.firebaseio.com",
+    "project_id": "fullcontrolmobile-a5ee4",
+    "storage_bucket": "fullcontrolmobile-a5ee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786788999903:android:a4d930e213654a38ce3f6a",
+        "android_client_info": {
+          "package_name": "br.com.fulltime.fullcontrolmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786788999903-ld3bkdam12rbp8ib4ikosn9c1ujggfhe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApBdmJvb2Qynz6eaZnYhPSj-bUYQEfj40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786788999903-ld3bkdam12rbp8ib4ikosn9c1ujggfhe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
